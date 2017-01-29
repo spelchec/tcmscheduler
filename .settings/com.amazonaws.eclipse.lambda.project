@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Sat Mar 26 23:23:21 EDT 2016
+lastDeploymentFunctionName=tcmSchedule
+lastDeploymentBucketName=tcmschedule
+lastDeploymentEndpoint=https\://lambda.us-east-1.amazonaws.com/
